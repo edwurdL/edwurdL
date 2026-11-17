@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Checkout my portfolio at https://eddie-lai.com/
 ## Play grubbl at grubbl.io!
 <!--
 **edwurdL/edwurdL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
